@@ -9,4 +9,4 @@ again the second attempt to add something locally
 
 make a web change and commit it
 
-here again a change made locally
+here again one change made locally
