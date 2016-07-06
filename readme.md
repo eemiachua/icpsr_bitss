@@ -6,3 +6,5 @@ ds
 push something in the app
 
 again the second attempt to add something locally
+
+make a web change and commit it 
